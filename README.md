@@ -161,7 +161,7 @@ AuditStatus.FAILURE  # Complete failure (0 successful sources)
 
 **Institución**: Universidad Politécnica Metropolitana de Hidalgo  
 **Programa**: Maestría en Inteligencia Artificial - Big Data  
-**Autores**: Sánchez Ríos José Luis (253220161), Santos Martínez Víctor Manuel (253220020)  
+**Autores**: Romero Lora Jessica Melani (253220116), Santos Martínez Víctor Manuel (253220020), Cortés Spross Jesús Gerhard (253220094) 
 **Instructor**: Dr. Jaime Aguilar Ortiz  
 **Fecha**: 17 de enero de 2026
 
